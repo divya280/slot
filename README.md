@@ -91,13 +91,54 @@ Execute the program using runserver command.
             <td bgcolor="white">FREE SLOT</td>
          </tr>
     </table>
+    <table align="center" width="800" cellspacing="2" cellpadding="10px" border="5">
+        <tr align="center">
+            <th>S.no</th>
+            <th>Subject Code</th>
+            <th>Subject Name</th>
+        </tr>
+        <tr align="center">
+            <th>1</th>
+            <td>19EY710</td>
+            <td>Quantitative Ability-1</td>
+        </tr>
+        <tr align="center">
+            <th>2</th>
+            <td>19AI414</td>
+            <td>Fundamentals of Web Application Development</td>
+        </tr>
+        <tr align="center">
+            <th>3</th>
+            <td>19CS405</td>
+            <td>Operating System</td>
+        </tr>
+        <tr align="center">
+            <th>4</th>
+            <td>19AI403</td>
+            <td>Introduction to Data Science</td>
+        </tr>
+        <tr align="center">
+            <th>5</th>
+            <td>19AI304</td>
+            <td>Fundamentals of C programming</td>
+        </tr>
+        <tr align="center">
+            <th>6</th>
+            <td>19MA219</td>
+            <td>Transforms and its Applications</td>
+        </tr>
+        <tr align="center">
+            <th>7</th>
+            <td>19CS404</td>
+            <td>Database Management System and its Applications</td>
+        </tr>
     </body>
 </html>
 ```
 
 
 ## OUTPUT
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 
