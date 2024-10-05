@@ -91,6 +91,7 @@ Execute the program using runserver command.
             <td bgcolor="white">FREE SLOT</td>
          </tr>
     </table>
+    <br>
     <table align="center" width="800" cellspacing="2" cellpadding="10px" border="5">
         <tr align="center">
             <th>S.no</th>
@@ -138,8 +139,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](image-1.png)
-
+![alt text](image-2.png)
 
 
 ## RESULT
